@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Smart Vichar</string>
+    <string name="api">https://smartvichar.pages.dev/home.json</string>
+    <string name="about">this app is quote/suvichar/shayri app !</string>
+</resources>
